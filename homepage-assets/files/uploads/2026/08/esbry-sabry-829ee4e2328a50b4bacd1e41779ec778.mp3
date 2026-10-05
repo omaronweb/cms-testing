@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>InvalidRequest</Code><Message>The authorization mechanism you have provided is not supported. Please use AWS4-HMAC-SHA256.</Message><Resource>/muslimat-admin-testing.zadapps.info/uploads/2026/08/esbry-sabry-829ee4e2328a50b4bacd1e41779ec778.mp3</Resource><RequestId>18DBC28538352766</RequestId><HostId>dd9025bab4ad464b049177c95eb6ebf374d3b3fd1af9251148b658df7ac2e3e8</HostId></Error>
