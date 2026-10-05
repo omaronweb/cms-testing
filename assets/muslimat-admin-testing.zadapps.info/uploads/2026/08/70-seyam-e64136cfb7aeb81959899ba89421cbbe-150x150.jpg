@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>InvalidRequest</Code><Message>The authorization mechanism you have provided is not supported. Please use AWS4-HMAC-SHA256.</Message><Resource>/muslimat-admin-testing.zadapps.info/uploads/2026/08/70-seyam-e64136cfb7aeb81959899ba89421cbbe-150x150.jpg</Resource><RequestId>18DBA7095721E65F</RequestId><HostId>dd9025bab4ad464b049177c95eb6ebf374d3b3fd1af9251148b658df7ac2e3e8</HostId></Error>
